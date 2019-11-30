@@ -1,0 +1,44 @@
+html {
+	margin: 0;
+	padding: 0;
+	}
+body {
+	font: georgia, sans-serif;
+	line-height: 1.4;
+	color: #0c0;
+	background: #333;
+	padding: 10px;
+	}
+header {
+	text-align: justify;
+	width: 50%;
+	margin-left: 10%;
+}
+p {
+	text-align: justify;
+	width: 60%;
+	}
+
+a:link {
+	font-weight: bold;
+	text-decoration: none;
+	color: #B7A5DF;
+	}
+
+footer {
+	text-align: justify;
+	width: 50%;
+	margin-left: 20%;
+	margin-top: 1%;
+	}
+
+article {
+	margin-left: 25%
+}
+
+img {
+  float: left;
+	margin-right: 2%;
+	clear: both;
+	margin-bottom: 15%;
+}
