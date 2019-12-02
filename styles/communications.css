@@ -9,36 +9,26 @@ body {
 	background: #333;
 	padding: 10px;
 	}
-header {
-	text-align: justify;
-	width: 50%;
-	margin-left: 10%;
-}
+
+
 p {
 	text-align: justify;
 	width: 60%;
-	}
-
-a:link {
-	font-weight: bold;
-	text-decoration: none;
-	color: #B7A5DF;
-	}
-
-footer {
-	text-align: justify;
-	width: 50%;
-	margin-left: 20%;
-	margin-top: 1%;
 	}
 
 article {
 	margin-left: 25%
 }
 
-img {
+#sidebar img {
   float: left;
 	margin-right: 2%;
 	clear: both;
 	margin-bottom: 15%;
+}
+
+.end-point {
+	text-align: justify;
+	width: 50%;
+	margin-left: 10%;
 }
